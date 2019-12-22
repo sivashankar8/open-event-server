@@ -30,7 +30,7 @@ The **Open Event Server** exposes a well documented [JSON:API Spec](http://jsona
 * Our chat channel is on **[Gitter](https://gitter.im/fossasia/open-event-server)**
 > [gitter.im/fossasia/open-event-server](https://gitter.im/fossasia/open-event-server)
 
-## Demo Version
+## Demo Version 
 
 A demo version is automatically deployed from our repositories:
 * Deployment from the `master` branch - **[open-event-api.herokuapp.com](https://open-event-api.herokuapp.com/)**
